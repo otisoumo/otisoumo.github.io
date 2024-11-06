@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otisoumo.github.io/Vhc/sitemap_index.txt
+Sitemap: https://otisoumo.github.io/XWS/sitemap_index.txt
+Sitemap: https://otisoumo.github.io/fRb/sitemap_index.txt
+Sitemap: https://otisoumo.github.io/waF/sitemap_index.txt
